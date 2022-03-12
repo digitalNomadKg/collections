@@ -44,9 +44,8 @@ public class Main {
 
         Collections.shuffle(arrayList);
         System.out.println(arrayList);
+
     }
-
-
 
     public static void main(String[] args) {
 
